@@ -1,0 +1,223 @@
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojResolveAssemblyReference.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.Cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojResolveAssemblyReference.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.GestionDatos.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.Cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.GestionDatos.resources
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojResolveAssemblyReference.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.Cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\Adrian\Desktop\Universidad\Segundo Año\Segundo Cuatrimestre\Bases de Datos\Practicas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+E:\Descargas\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\carlo\Desktop\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojResolveAssemblyReference.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.Cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020(1)\Practica 3 2020(1)\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormInformacion.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormInformacion.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+E:\Descargas\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormInformacion.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojResolveAssemblyReference.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormInformacion.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.Cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormInformacion.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\carlo\Desktop\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormInformacion.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+E:\Descargas\Practica 3 2020\Practica 3 2020\Practica 3 2020\Practica 3 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
+E:\Descargas\Trenes\Trenes\bin\Debug\Trenes.exe.config
+E:\Descargas\Trenes\Trenes\bin\Debug\Trenes.exe
+E:\Descargas\Trenes\Trenes\bin\Debug\Trenes.pdb
+E:\Descargas\Trenes\Trenes\bin\Debug\Trenes.xml
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.vbprojAssemblyReference.cache
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.FormInformacion.resources
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.cache
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.exe
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.xml
+E:\Descargas\Trenes\Trenes\obj\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\bin\Debug\Trenes.exe.config
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\bin\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\bin\Debug\Trenes.pdb
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\bin\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.vbprojResolveAssemblyReference.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.Resources.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.FormInformacion.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.FormViajes.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.FormConectar.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.FormGestionDatos.resources
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.GenerateResource.Cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.vbproj.CoreCompileInputs.cache
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.exe
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.xml
+C:\Users\Cris Carretero\Desktop\BBDD 2020\Trenes\Trenes\obj\Debug\Trenes.pdb
